@@ -520,3 +520,12 @@ Act as a professional blogger with years of experience doing blogging and SEO, m
 What I need:
 
 Suggest similar topics to create tool-based websites in other low-competitive countries where CPC would be good and competition is low. Give me the full keywords in list, and ideas, and websites emd/pmd/brand domain name ideas in the list. Suggest similar micro-topics where I can create a tool-based website. The sole purpose of the website will be to build organic traffic and make money with Google Adsense. Don't want to work in competitive countries like the USA, Spain, Germany.
+
+-----
+Analyze the Flippa [URL] provided, which lists websites using Adsense for monetization, targeting emerging markets with lower competition. Identify niches that are underrepresented but offer good CPC potential. Focus on low-competition countries such as Vietnam, USA, Germany, Spain, India, and Pakistan. Extract the following:
+
+Micro-Niche Ideas: Suggest tool-based website ideas targeting underserved micro-niches that can be monetized through Adsense.
+Keyword List: Provide relevant long-tail keywords with low competition for each niche, suitable for organic traffic generation.
+Domain Name Ideas: Suggest available EMD (Exact Match Domain), PMD (Partial Match Domain), and Brand domain name ideas for each niche.
+Monetization Strategy: Outline how to develop a simple tool-based website that can generate organic traffic and monetize through Google Adsense.
+The goal is to identify niches in low-competition countries, suggest tools that can be built for these niches, and create a monetizable website with Adsense."
