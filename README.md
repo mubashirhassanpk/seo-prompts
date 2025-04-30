@@ -266,7 +266,7 @@ Content Refresh Strategy
 #### CTR Optimization
 "Here is the past 90 days of GSC data for my site: [Attach Data]. Identify keywords with a CTR below 2% but ranking in the top 10. Recommend meta title and description rewrites to improve CTR."
 
-## 2. Advanced E-commerce Prompts
+## 3. Advanced E-commerce Prompts
 ### Store Setup and Optimization
 #### Dropshipping Business Setup
 "Create a step-by-step to-do list for starting a dropshipping business using Shopify. Include tasks like product research, store setup, payment gateway configuration, and marketing strategies. Use ZikAnalytics to identify 5 high-demand products with at least a 75% profit margin and match them with reliable suppliers from AliExpress."
@@ -286,7 +286,8 @@ Social Media Content Calendar
 "I want to automate my blogging process using AI. Suggest a workflow for generating blog topics, creating outlines, writing drafts, and optimizing for SEO. Include tools like ChatGPT for content creation, SurferSEO for optimization, and Grammarly for editing."
 Data Analysis Automation
 "Set up an automated workflow for analyzing my website's Google Analytics and Search Console data. Include tasks like generating weekly reports, identifying trends, and sending alerts for significant changes in traffic or rankings."
-## 3. Advanced Niche Research Prompts
+
+## 4. Advanced Niche Research Prompts
 #### Micro-Niche Blogging Strategy
 "I want to start a blog targeting non-English-speaking audiences. Suggest 3 macro niches specifically targeting men or women with informational content. Under each macro niche, provide 3 micro niches with high search volume (100K+ monthly searches) and low competition. Include keyword research in Spanish, but translate the keywords into English. Provide a list of 20 keywords for each micro niche, along with their search volume and competition score."
 #### E-commerce Niche Research
@@ -299,7 +300,7 @@ Data Analysis Automation
 #### Content Repurposing Strategy
 "Analyze my top-performing blog posts and suggest ways to repurpose them into other formats like videos, infographics, and podcasts. Provide a detailed plan for each format, including tools and platforms to use."
 
-## 4. Advanced SEO and Content Strategy Prompts
+## 5. Advanced SEO and Content Strategy Prompts
 #### SEO Content Strategy for SaaS
 "Act as an enterprise-level SEO consultant specializing in SaaS. For the keyword '[Primary Keyword]', list 10 long-tail variations and classify each by search intent. Using these keywords, create a comprehensive blog outline with H1, H2, and H3 tags optimized for each intent. Suggest a meta title and description for the blog, keeping the title under 60 characters and the description under 150 characters. Finally, recommend 10 internal links from this list of existing blog posts: [Insert URLs]. Categorize them by anchor text relevance."
 #### Competitor Analysis for SEO
@@ -311,7 +312,7 @@ Data Analysis Automation
 #### Content Refresh Strategy
 "Analyze my blog '[Insert Blog URL]' and identify outdated content that needs refreshing. Suggest updates to align with current search intent, add new keywords, and improve readability. Provide a step-by-step plan for refreshing the content, including new headings, keyword placements, and internal links."
 
-## 2. E-commerce and Dropshipping Prompts
+## 6. E-commerce and Dropshipping Prompts
 #### Dropshipping Business Setup
 "Create a step-by-step to-do list for starting a dropshipping business using Shopify. Include tasks like product research, store setup, payment gateway configuration, and marketing strategies. Use ZikAnalytics to identify 5 high-demand products with at least a 75% profit margin and match them with reliable suppliers from AliExpress. Provide a detailed plan for optimizing product pages, including SEO-friendly descriptions, images, and pricing strategies."
 #### Product Page Optimization
@@ -323,7 +324,7 @@ Data Analysis Automation
 #### Daily Dropshipping Operations
 "For every order in my store, fulfill it to the customer's address using the AliExpress product links provided. Place orders 5 hours after purchase and notify me for approval if an order costs more than $100. Send me a daily report at 4 PM summarizing all fulfilled orders, pending orders, and any issues encountered."
 
-## 3. Automation and Workflow Prompts
+## 7. Automation and Workflow Prompts
 #### Manus AI Workflow for Automation
 "Create an in-depth course on how to practically use Manus AI for automating workflows. Focus on real-world use cases like email marketing, data analysis, and task management. Include examples, images, and quizzes to ensure comprehension. Start with an outline that we can refine in the next Manus chat."
 #### Automated Blogging Workflow
@@ -334,7 +335,8 @@ Data Analysis Automation
 "Create an automated workflow for managing my social media accounts. Include tasks like scheduling posts, responding to comments, and analyzing engagement metrics. Suggest tools like Buffer, Hootsuite, or Zapier for automation."
 #### Data Analysis Automation
 "Set up an automated workflow for analyzing my website's Google Analytics and Search Console data. Include tasks like generating weekly reports, identifying trends, and sending alerts for significant changes in traffic or rankings. Suggest tools and integrations for automating this process."
-## 4. Niche Research and Business Strategy Prompts
+
+## 8. Niche Research and Business Strategy Prompts
 #### Micro-Niche Blogging Strategy
 "I want to start a blog targeting non-English-speaking audiences. Suggest 3 macro niches specifically targeting men or women with informational content. Under each macro niche, provide 3 micro niches with high search volume (100K+ monthly searches) and low competition. Include keyword research in Spanish, but translate the keywords into English. Provide a list of 20 keywords for each micro niche, along with their search volume and competition score. Also, identify blogs in these niches that have been built in the last 3 months and are getting high traffic."
 #### Business Model Analysis
@@ -345,7 +347,8 @@ Data Analysis Automation
 "I need a new website for my business. Review my current website [Insert URL] and suggest a plan for building a new one from scratch. Include recommendations for design, content, and SEO. Use simple technologies like HTML, CSS, and JavaScript, and suggest a clean, minimal design with a focus on conversions."
 #### Startup Launch Strategy
 "Create a step-by-step launch strategy for a new startup in the [Insert Industry] niche. Include tasks like market research, product development, branding, and marketing. Provide a timeline and key milestones for each phase of the launch."
-## 5. Advanced Content Creation Prompts
+
+## 9. Advanced Content Creation Prompts
 #### Podcast to Presentation Conversion
 "Here's a YouTube video: [Insert Link]. Convert the content into a 10-slide presentation with sleek design and relevant images. Summarize the key points and include visuals to make the presentation engaging."
 #### Content Repurposing Strategy
