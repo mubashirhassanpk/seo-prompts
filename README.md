@@ -508,4 +508,4 @@ Act as a professional blogger with years of experience doing blogging and SEO, m
 
 What I need:
 
-Suggest similar topics to create tool-based websites in other low-competitive countries where CPC would be good and competition is low. Suggest similar micro-topics where I can create a tool-based website. The sole purpose of the website will be to build organic traffic and make money with Google Adsense. Don't want to work in competitive countries like the USA.
+Suggest similar topics to create tool-based websites in other low-competitive countries where CPC would be good and competition is low. Give me the full keywords in list, and ideas, and websites emd/pmd/brand domain name ideas in the list. Suggest similar micro-topics where I can create a tool-based website. The sole purpose of the website will be to build organic traffic and make money with Google Adsense. Don't want to work in competitive countries like the USA, Spain, Germany.
