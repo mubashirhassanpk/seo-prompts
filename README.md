@@ -528,4 +528,10 @@ Micro-Niche Ideas: Suggest tool-based website ideas targeting underserved micro-
 Keyword List: Provide relevant long-tail keywords with low competition for each niche, suitable for organic traffic generation.
 Domain Name Ideas: Suggest available EMD (Exact Match Domain), PMD (Partial Match Domain), and Brand domain name ideas for each niche.
 Monetization Strategy: Outline how to develop a simple tool-based website that can generate organic traffic and monetize through Google Adsense.
-The goal is to identify niches in low-competition countries, suggest tools that can be built for these niches, and create a monetizable website with Adsense."
+The goal is to identify niches in low-competition countries, suggest tools that can be built for these niches, and create a monetizable website with Adsense.
+
+### Only Some Countries:
+
+Analyze the Flippa URL [https://flippa.com/buy/monetization/adsense?search_template=most_relevant&filter%5Bsite_type_tag%5D=adsense&filter%5Bage%5D%5Bmax%5D=24&sort_alias=most_recent&filter%5Bsale_method%5D=auction,classified&filter%5Bstatus%5D=open,won&filter%5Bproperty_type%5D=website&filter%5Brevenue_generating%5D=T,F&page%5Bsize%5D=100] provided, which lists websites using Adsense for monetization, targeting emerging markets with lower competition. Identify niches that are underrepresented but offer good CPC potential. Focus on low-competition countries such as Vietnam, USA, Germany, Spain, India, and Pakistan. Extract the following:
+
+Micro-Niche Ideas: Suggest tool-based website ideas targeting underserved micro-niches that can be monetized through Adsense. Keyword List: Provide relevant long-tail keywords with low competition for each niche, suitable for organic traffic generation. Domain Name Ideas: Suggest available EMD (Exact Match Domain), PMD (Partial Match Domain), and Brand domain name ideas for each niche. Monetization Strategy: Outline how to develop a simple tool-based website that can generate organic traffic and monetize through Google Adsense. The goal is to identify niches in low-competition countries, suggest tools that can be built for these niches, and create a monetizable website with Adsense.
