@@ -500,6 +500,17 @@ Optimization recommendations
 -----------
 
 ## Prompt for Niche Finder with Flippa.com
+
+### Prompt:
+[FLIPA.com Website Summary]
+
+Act as a professional blogger with years of experience doing blogging and SEO, making money with Google Adsense.
+What I need:
+
+Suggest similar topics to create tool-based websites in other low-competitive countries where CPC would be good and competition is low. Give me the full keywords in list, and ideas, and websites emd/pmd/brand domain name ideas in the list. Suggest similar micro-topics where I can create a tool-based website. The sole purpose of the website will be to build organic traffic and make money with Google Adsense. Don't want to work in competitive countries like the USA, Spain, Germany.
+
+
+### Example Prompt:
 CalculaRFC.mx, an emergent player in the ever-evolving digital content landscape, offers a unique blend of business-focused resources and utilities. As an online platform that provides various tools and information about the Registro Federal de Contribuyentes (RFC) in Mexico, it addresses a specific yet significant need for both individuals and businesses. Emphasizing its role as a content site, CalculaRFC.mx employs targeted strategies to generate revenue through digital advertising. Their monetization model is predominantly driven by partnerships with ad platforms such as Google AdSense and Ezoic, which serves to optimize ad placements and maximize income.
 
 The customer base of CalculaRFC.mx is diverse, primarily encompassing Mexican citizens and businesses navigating the complexities of obtaining and understanding the RFC—a critical component for tax compliance in Mexico. This demographic includes individuals who are new to the workforce, entrepreneurs establishing new businesses, and established companies that require comprehensive RFC guidance for operational tax purposes. CalculaRFC.mx caters to these users by providing straightforward, accessible content, ensuring that each visit translates into a valuable user engagement that advertisers are willing to pay for through their specified bidding strategies on the site.
